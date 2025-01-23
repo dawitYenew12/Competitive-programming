@@ -19,3 +19,4 @@ var minimumLength = function(s) {
     
     return totalLength;
 };
+
